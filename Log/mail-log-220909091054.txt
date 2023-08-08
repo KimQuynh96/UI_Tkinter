@@ -1,0 +1,32 @@
+Log in - Access login page
+Log in - Input valid ID
+Log in - Input valid password
+Log in - Click Submit button
+Log in successfully
+Open folder sub-menu [Shared] to view folder list
+
+[automationtest1_Inbox]
+Parent folder [Shared] is active
+Access folder [automationtest1_Inbox]
+ >>> count_unread_mails : 2
+ >>> count_internal_mails : 2
+ >>> count_external_mails : 0
+ >>> count_important_mails : 0
+ >>> count_alias_mails : 0
+ >>> count_suspected_mails : 0
+ >>> count_today_mails : 0
+ >>> count_fwd_mails : 1
+ >>> count_re_mails : 0
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: resource_permission | Status: Permission System
+ >>> mail_position: 2
+ >>> alias_mails {}
+ >>> internal_mails {'1': '[AutomationTest] Permission System (Meeting room 2)', '2': 'FW: RE: mail app'}
+ >>> external_mails {}
+ >>> suspected_mails {}
+ >>> gw_tasks_mails {'1': {'menu': 'resource_permission', 'status': 'Permission System', 'title': '[AutomationTest] Permission System (Meeting room 2)'}}
+ >>> gw_re_fwd_mails {'2': 'FW: RE: mail app'}
+ >>> other_re_fwd_mails {}
+ >>> past_mails {'1': '[AutomationTest] Permission System (Meeting room 2)', '2': 'FW: RE: mail app'}
+ >>> today_mails {}
+Current page 1 is last page

@@ -1,0 +1,31 @@
+Log in - Access login page
+Log in - Input valid ID
+Log in - Input valid password
+Log in - Click Submit button
+Log in successfully
+
+[Inbox]
+Access folder [Inbox]
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 3
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 5
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 7
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 9
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 11
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+Current page 1 is last page

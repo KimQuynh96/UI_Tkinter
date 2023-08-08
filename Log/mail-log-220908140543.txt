@@ -1,0 +1,10 @@
+Log in - Access login page
+Log in - Input valid ID
+Log in - Input valid password
+Log in - Click Submit button
+Log in successfully
+Open folder sub-menu [Shared] to view folder list
+
+[automationtest1_Inbox]
+Parent folder [Shared] is active
+Access folder [automationtest1_Inbox]

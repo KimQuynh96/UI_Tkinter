@@ -1,0 +1,26 @@
+Log in - Access login page
+Log in - Input valid ID
+Log in - Input valid password
+Log in - Click Submit button
+Log in successfully
+
+[Inbox]
+Access folder [Inbox]
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+Current page 1 is last page
+You don't have folders in this sub-menu [Folders]
+Open folder sub-menu [Shared] to view folder list
+
+[ts2_Kim Quynh]
+Parent folder [Shared] is active
+Access folder [ts2_Kim Quynh]
+
+[Spam]
+Access folder [Spam]
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: resource_meeting | Status: You are invited to a conference.
+Current page 1 is last page
+
+[Fetching]
+Access folder [Fetching]

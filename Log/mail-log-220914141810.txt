@@ -1,0 +1,16 @@
+Log in - Access login page
+Log in - Input valid ID
+Log in - Input valid password
+Log in - Click Submit button
+Log in successfully
+
+[Inbox]
+Access folder [Inbox]
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+Current page 1 is last page
+Log in - Access login page
+Log in - Input valid ID
+Log in - Input valid password
+Log in - Click Submit button
+Log in successfully

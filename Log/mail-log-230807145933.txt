@@ -1,0 +1,368 @@
+Log in - Access login page
+Log in - Input valid ID
+Log in - Input valid password
+Log in - Click Submit button
+Log in successfully
+
+[Inbox]
+Access folder [Inbox]
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 3
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 5
+ >>> mail_position: 6
+ >>> mail_position: 7
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 8
+ >>> mail_position: 9
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 10
+Move to next page from page 1
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 2
+ >>> mail_position: 3
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 5
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 7
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 9
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+Move to next page from page 2
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: resource_permission | Status: Permission System
+ >>> mail_position: 2
+ >>> mail_position: 3
+Mail is sent from gw menu >>> Menu: resource_permission | Status: Permission System
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: resource_permission | Status: Permission System
+ >>> mail_position: 5
+Mail is sent from gw menu >>> Menu: resource_permission | Status: Permission System
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: resource_permission | Status: Permission System
+ >>> mail_position: 7
+Mail is sent from gw menu >>> Menu: resource_permission | Status: Permission System
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 9
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: approval | Status: (Request)
+Move to next page from page 3
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: approval | Status: (Request)
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 3
+ >>> mail_position: 4
+ >>> mail_position: 5
+ >>> mail_position: 6
+ >>> mail_position: 7
+ >>> mail_position: 8
+ >>> mail_position: 9
+ >>> mail_position: 10
+Move to next page from page 4
+ >>> mail_position: 1
+ >>> mail_position: 2
+ >>> mail_position: 3
+Mail is sent from gw menu >>> Menu: resource_permission | Status: Permission System
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 5
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 6
+ >>> mail_position: 7
+Mail is sent from gw menu >>> Menu: resource_permission | Status: Permission System
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: resource | Status: (Cancel)
+ >>> mail_position: 9
+Mail is sent from gw menu >>> Menu: resource_permission | Status: t trc cn ph duyt
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: resource | Status: (Hy b)
+Move to next page from page 5
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: resource_permission | Status: 
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: resource | Status: (Cancel)
+ >>> mail_position: 3
+Mail is sent from gw menu >>> Menu: resource_permission | Status: Permission System
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: resource | Status: (Cancel)
+ >>> mail_position: 5
+Mail is sent from gw menu >>> Menu: resource_permission | Status: Permission System
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 7
+Mail is sent from gw menu >>> Menu: archive | Status: Thng tin,lu tr
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 9
+ >>> mail_position: 10
+Move to next page from page 6
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 2
+ >>> mail_position: 3
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 4
+ >>> mail_position: 5
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 6
+ >>> mail_position: 7
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 9
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+Move to next page from page 7
+ >>> mail_position: 1
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 3
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 5
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 7
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 9
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+Move to next page from page 8
+ >>> mail_position: 1
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 3
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 5
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 7
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 9
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+Move to next page from page 9
+ >>> mail_position: 1
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 3
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 5
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 7
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 9
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+Move to next page from page 10
+ >>> mail_position: 1
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 3
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 5
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 7
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 9
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+Move to next page from page 11
+ >>> mail_position: 1
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 3
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 5
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 7
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 9
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+Move to next page from page 12
+ >>> mail_position: 1
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 3
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 5
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 7
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 9
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+Move to next page from page 13
+ >>> mail_position: 1
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 3
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 5
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 7
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 9
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+Move to next page from page 14
+ >>> mail_position: 1
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 3
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 5
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 7
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 9
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+Move to next page from page 15
+ >>> mail_position: 1
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 3
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 5
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 7
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 9
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+Move to next page from page 16
+ >>> mail_position: 1
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 3
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 5
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 7
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 9
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+Move to next page from page 17
+ >>> mail_position: 1
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 3
+Mail is sent from gw menu >>> Menu: archive | Status: Thng tin,lu tr
+ >>> mail_position: 4
+ >>> mail_position: 5
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 6
+ >>> mail_position: 7
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 8
+ >>> mail_position: 9
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 10
+Move to next page from page 18
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 2
+ >>> mail_position: 3
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 4
+ >>> mail_position: 5
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 6
+ >>> mail_position: 7
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 8
+ >>> mail_position: 9
+Mail is sent from gw menu >>> Menu: vacation | Status: [Request]
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+Move to next page from page 19
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: archive | Status: Thng tin,lu tr
+ >>> mail_position: 2
+ >>> mail_position: 3
+ >>> mail_position: 4
+ >>> mail_position: 5
+ >>> mail_position: 6
+ >>> mail_position: 7
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 8
+ >>> mail_position: 9
+Mail is sent from gw menu >>> Menu: resource_permission | Status: Permission System
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+Move to next page from page 20
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 2
+ >>> mail_position: 3
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 4
+ >>> mail_position: 5
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 7
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 9
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+Move to next page from page 21
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 3
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+ >>> mail_position: 5
+Mail is sent from gw menu >>> Menu: archive | Status: Archive,Report Notice
+Current page 22 is last page

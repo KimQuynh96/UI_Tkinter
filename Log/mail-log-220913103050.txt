@@ -1,0 +1,15 @@
+Log in - Access login page
+Log in - Input valid ID
+Log in - Input valid password
+Log in - Click Submit button
+Log in successfully
+Open folder sub-menu [Shared] to view folder list
+
+[automationtest1_Inbox]
+Parent folder [Shared] is active
+Access folder [automationtest1_Inbox]
+ >>> mail_position: 1
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: resource_permission | Status: Permission System
+ >>> mail_position: 3
+Current page 1 is last page

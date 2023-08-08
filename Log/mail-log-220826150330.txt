@@ -1,0 +1,9 @@
+Log in - Access login page
+Log in - Input valid ID
+Log in - Input valid password
+Log in - Click Submit button
+Log in successfully
+
+[folder]
+Parent folder [Folders] is active
+Access folder [folder]

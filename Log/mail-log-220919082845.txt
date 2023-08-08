@@ -1,0 +1,26 @@
+Log in - Access login page
+Log in - Input valid ID
+Log in - Input valid password
+Log in - Click Submit button
+Log in successfully
+
+[Inbox]
+Access folder [Inbox]
+ >>> mail_position: 1
+ >>> mail_position: 2
+ >>> mail_position: 3
+ >>> mail_position: 4
+ >>> mail_position: 5
+Move to next page from page 1
+ >>> mail_position: 1
+ >>> mail_position: 2
+ >>> mail_position: 3
+ >>> mail_position: 4
+ >>> mail_position: 5
+Move to next page from page 2
+ >>> mail_position: 1
+ >>> mail_position: 2
+ >>> mail_position: 3
+ >>> mail_position: 4
+ >>> mail_position: 5
+Move to next page from page 3

@@ -1,0 +1,185 @@
+Log in - Access login page
+Log in - Input valid ID
+Log in - Input valid password
+Log in - Click Submit button
+Log in successfully
+
+[folder]
+Parent folder [Folders] is active
+Access folder [folder]
+ >>> count_unread_mails : 4
+ >>> count_internal_mails : 4
+ >>> count_external_mails : 0
+ >>> count_important_mails : 0
+ >>> count_alias_mails : 0
+ >>> count_suspected_mails : 0
+ >>> count_today_mails : 0
+ >>> count_fwd_mails : 0
+ >>> count_re_mails : 0
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 3
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> alias_mails {}
+ >>> internal_mails {'1': "AutomationTest's Project(test closed) Work Notice", '2': "AutomationTest's Project(test closed) Work Notice", '3': "AutomationTest's Project(test closed) Ticket Notice", '4': "TS2's Archive([Test]) Report Notice"}
+ >>> external_mails {}
+ >>> suspected_mails {}
+ >>> gw_tasks_mails {'1': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': "AutomationTest's Project(test closed) Work Notice"}, '2': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': "AutomationTest's Project(test closed) Work Notice"}, '3': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': "AutomationTest's Project(test closed) Ticket Notice"}, '4': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': "TS2's Archive([Test]) Report Notice"}}
+ >>> gw_re_fwd_mails {}
+ >>> other_re_fwd_mails {}
+ >>> past_mails {'1': "AutomationTest's Project(test closed) Work Notice", '2': "AutomationTest's Project(test closed) Work Notice", '3': "AutomationTest's Project(test closed) Ticket Notice", '4': "TS2's Archive([Test]) Report Notice"}
+ >>> today_mails {}
+Current page  is last page
+
+[my folder]
+Parent folder [Folders] is active
+Access folder [my folder]
+ >>> count_unread_mails : 10
+ >>> count_internal_mails : 10
+ >>> count_external_mails : 0
+ >>> count_important_mails : 0
+ >>> count_alias_mails : 0
+ >>> count_suspected_mails : 0
+ >>> count_today_mails : 0
+ >>> count_fwd_mails : 0
+ >>> count_re_mails : 0
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: approval | Status: (Complete)
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: approval | Status: (Complete)
+ >>> mail_position: 3
+Mail is sent from gw menu >>> Menu: project_work | Status:  
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 5
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 7
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 9
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> alias_mails {}
+ >>> internal_mails {'1': '(Complete) [Form checkbox Selenium 2022-9] expense folder | AutomationTest', '2': '(Complete) [Form Cau Tre Selenium 2022-152] [Cancel Approval] expense folder | AutomationTest', '3': 'test app package', '4': 'The comment on task report has been registered.', '5': 'The comment on task report has been registered.', '6': 'The comment on task report has been registered.', '7': 'The comment on task report has been registered.', '8': 'The comment on task report has been registered.', '9': 'The comment on task report has been registered.', '10': 'The comment on task report has been registered.'}
+ >>> external_mails {}
+ >>> suspected_mails {}
+ >>> gw_tasks_mails {'1': {'menu': 'approval', 'status': '(Complete)', 'title': '(Complete) [Form checkbox Selenium 2022-9] expense folder | AutomationTest'}, '2': {'menu': 'approval', 'status': '(Complete)', 'title': '(Complete) [Form Cau Tre Selenium 2022-152] [Cancel Approval] expense folder | AutomationTest'}, '3': {'menu': 'project_work', 'status': ' ', 'title': 'test app package'}, '4': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'The comment on task report has been registered.'}, '5': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'The comment on task report has been registered.'}, '6': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'The comment on task report has been registered.'}, '7': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'The comment on task report has been registered.'}, '8': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'The comment on task report has been registered.'}, '9': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'The comment on task report has been registered.'}, '10': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'The comment on task report has been registered.'}}
+ >>> gw_re_fwd_mails {}
+ >>> other_re_fwd_mails {}
+ >>> past_mails {'1': '(Complete) [Form checkbox Selenium 2022-9] expense folder | AutomationTest', '2': '(Complete) [Form Cau Tre Selenium 2022-152] [Cancel Approval] expense folder | AutomationTest', '3': 'test app package', '4': 'The comment on task report has been registered.', '5': 'The comment on task report has been registered.', '6': 'The comment on task report has been registered.', '7': 'The comment on task report has been registered.', '8': 'The comment on task report has been registered.', '9': 'The comment on task report has been registered.', '10': 'The comment on task report has been registered.'}
+ >>> today_mails {}
+Move to next page from page 
+ >>> count_unread_mails : 10
+ >>> count_internal_mails : 10
+ >>> count_external_mails : 0
+ >>> count_important_mails : 0
+ >>> count_alias_mails : 0
+ >>> count_suspected_mails : 0
+ >>> count_today_mails : 0
+ >>> count_fwd_mails : 0
+ >>> count_re_mails : 0
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 3
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 5
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: project_work | Status:  
+ >>> mail_position: 7
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: approval | Status: (Request)
+ >>> mail_position: 9
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> alias_mails {}
+ >>> internal_mails {'1': 'The comment on task report has been registered.', '2': 'The comment on task report has been registered.', '3': 'The comment on task report has been registered.', '4': 'The comment on task report has been registered.', '5': 'The comment on task report has been registered.', '6': "AutomationTest2's To-Do (task) Notice", '7': 'The comment on task report has been registered.', '8': '(Request) [Form Cau Tre Selenium 2021-135] Form Cau Tre | AutomationTest2', '9': "AutomationTest2's Archive(Request to Review) Report Notice", '10': "AutomationTest2's Archive(Request to Review) Report Notice"}
+ >>> external_mails {}
+ >>> suspected_mails {}
+ >>> gw_tasks_mails {'1': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'The comment on task report has been registered.'}, '2': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'The comment on task report has been registered.'}, '3': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'The comment on task report has been registered.'}, '4': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'The comment on task report has been registered.'}, '5': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'The comment on task report has been registered.'}, '6': {'menu': 'project_work', 'status': ' ', 'title': "AutomationTest2's To-Do (task) Notice"}, '7': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'The comment on task report has been registered.'}, '8': {'menu': 'approval', 'status': '(Request)', 'title': '(Request) [Form Cau Tre Selenium 2021-135] Form Cau Tre | AutomationTest2'}, '9': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': "AutomationTest2's Archive(Request to Review) Report Notice"}, '10': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': "AutomationTest2's Archive(Request to Review) Report Notice"}}
+ >>> gw_re_fwd_mails {}
+ >>> other_re_fwd_mails {}
+ >>> past_mails {'1': 'The comment on task report has been registered.', '2': 'The comment on task report has been registered.', '3': 'The comment on task report has been registered.', '4': 'The comment on task report has been registered.', '5': 'The comment on task report has been registered.', '6': "AutomationTest2's To-Do (task) Notice", '7': 'The comment on task report has been registered.', '8': '(Request) [Form Cau Tre Selenium 2021-135] Form Cau Tre | AutomationTest2', '9': "AutomationTest2's Archive(Request to Review) Report Notice", '10': "AutomationTest2's Archive(Request to Review) Report Notice"}
+ >>> today_mails {}
+Move to next page from page 
+ >>> count_unread_mails : 10
+ >>> count_internal_mails : 10
+ >>> count_external_mails : 0
+ >>> count_important_mails : 0
+ >>> count_alias_mails : 0
+ >>> count_suspected_mails : 0
+ >>> count_today_mails : 0
+ >>> count_fwd_mails : 0
+ >>> count_re_mails : 0
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 2
+ >>> mail_position: 3
+Mail is sent from gw menu >>> Menu: circular | Status: [Circular]
+ >>> mail_position: 4
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 5
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 7
+Mail is sent from gw menu >>> Menu: circular | Status: [Circular]
+ >>> mail_position: 8
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 9
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 10
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> alias_mails {}
+ >>> internal_mails {'1': '[Request a Certificate] 123456', '2': '23', '3': '[Circular] table', '4': 'Approval mail', '5': 'Test board', '6': 'Test board', '7': '[Circular] 4455', '8': 'Approval mail', '9': 'Test board', '10': 'Test board'}
+ >>> external_mails {}
+ >>> suspected_mails {}
+ >>> gw_tasks_mails {'1': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': '[Request a Certificate] 123456'}, '3': {'menu': 'circular', 'status': '[Circular]', 'title': '[Circular] table'}, '4': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'Approval mail'}, '5': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'Test board'}, '6': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'Test board'}, '7': {'menu': 'circular', 'status': '[Circular]', 'title': '[Circular] 4455'}, '8': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'Approval mail'}, '9': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'Test board'}, '10': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'Test board'}}
+ >>> gw_re_fwd_mails {}
+ >>> other_re_fwd_mails {}
+ >>> past_mails {'1': '[Request a Certificate] 123456', '2': '23', '3': '[Circular] table', '4': 'Approval mail', '5': 'Test board', '6': 'Test board', '7': '[Circular] 4455', '8': 'Approval mail', '9': 'Test board', '10': 'Test board'}
+ >>> today_mails {}
+Move to next page from page 
+ >>> count_unread_mails : 6
+ >>> count_internal_mails : 6
+ >>> count_external_mails : 0
+ >>> count_important_mails : 0
+ >>> count_alias_mails : 0
+ >>> count_suspected_mails : 0
+ >>> count_today_mails : 0
+ >>> count_fwd_mails : 0
+ >>> count_re_mails : 0
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: project_work | Status: Project,Work Notice
+ >>> mail_position: 2
+Mail is sent from gw menu >>> Menu: project_ticket | Status: Ticket Notice,Person in Charge
+ >>> mail_position: 3
+Mail is sent from gw menu >>> Menu: project_ticket | Status: Ticket Notice,Person in Charge
+ >>> mail_position: 4
+ >>> mail_position: 5
+ >>> mail_position: 6
+Mail is sent from gw menu >>> Menu: project_work | Status:  
+ >>> alias_mails {}
+ >>> internal_mails {'1': 'Test board', '2': 'Mail', '3': 'hi', '4': '123', '5': '777777', '6': 'file auto test'}
+ >>> external_mails {}
+ >>> suspected_mails {}
+ >>> gw_tasks_mails {'1': {'menu': 'project_work', 'status': 'Project,Work Notice', 'title': 'Test board'}, '2': {'menu': 'project_ticket', 'status': 'Ticket Notice,Person in Charge', 'title': 'Mail'}, '3': {'menu': 'project_ticket', 'status': 'Ticket Notice,Person in Charge', 'title': 'hi'}, '6': {'menu': 'project_work', 'status': ' ', 'title': 'file auto test'}}
+ >>> gw_re_fwd_mails {}
+ >>> other_re_fwd_mails {}
+ >>> past_mails {'1': 'Test board', '2': 'Mail', '3': 'hi', '4': '123', '5': '777777', '6': 'file auto test'}
+ >>> today_mails {}
+Current page  is last page

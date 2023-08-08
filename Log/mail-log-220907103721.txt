@@ -1,0 +1,31 @@
+Log in - Access login page
+Log in - Input valid ID
+Log in - Input valid password
+Log in - Click Submit button
+Log in successfully
+Open folder sub-menu [Shared] to view folder list
+
+[automationtest1_Inbox]
+Parent folder [Shared] is active
+Access folder [automationtest1_Inbox]
+ >>> count_unread_mails : 10
+ >>> count_internal_mails : 10
+ >>> count_external_mails : 0
+ >>> count_important_mails : 0
+ >>> count_alias_mails : 0
+ >>> count_suspected_mails : 0
+ >>> count_today_mails : 0
+ >>> count_fwd_mails : 9
+ >>> count_re_mails : 0
+ >>> mail_position: 1
+Mail is sent from gw menu >>> Menu: resource_permission | Status: Permission System
+ >>> mail_position: 2
+ >>> mail_position: 3
+ >>> mail_position: 4
+ >>> mail_position: 5
+ >>> mail_position: 6
+ >>> mail_position: 7
+ >>> mail_position: 8
+ >>> mail_position: 9
+ >>> mail_position: 10
+ >>> mail_position: 11
